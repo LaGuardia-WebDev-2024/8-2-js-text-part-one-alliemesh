@@ -16,6 +16,26 @@ draw = function(){
 
   //🎯New Text Code Should Go Here 🡻
 
+textSize(30);
+fill(0, 7, 154,);
+text("things i love that start with B!", 50, 50);
+
+textSize(20);
+fill(0, 100, 200);
+text("-birds", 50, 70);
+
+textSize(20);
+fill(0, 100, 200);
+text("-beaches", 50, 90);
+
+textSize(20);
+fill(0, 100, 200);
+text("-british rap", 50, 110);
+
+textSize(20);
+fill(0, 100, 200);
+text("-blueberries", 50, 130);
+
 };
 
 //🟡Mouse Pressed Procedue - Runs When Mouse is Pressed on Canvas
